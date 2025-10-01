@@ -1,36 +1,51 @@
-# Hi, I'm Simon 👋
+## 🚀 Currently Working On
+- Developing a custom website for a client’s business, improving their online presence and customer reach.  
+- Contributing to **QuickMarkets**, a full-stack stock market simulator preparing for launch.
 
-**Computer Science Student @ George Mason University**
-
-Currently building real-world projects for clients. Passionate about creating clean, functional solutions and gaining hands-on experience.
-
-## 🎓 Education
-- **B.S. Computer Science** - George Mason University
-- Relevant Coursework: Low-Level Programming (C), Data Structures (Java)
-
-## 💻 Current Focus
-- Building client websites as a freelance web developer
-- Learning HTML, CSS, JavaScript fundamentals
-- Exploring React for modern web applications
-- Strengthening problem-solving skills in C and Java
-
-## 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-## 🚀 What I'm Working On
-- Developing professional websites for local businesses
-- Contributing to open-source projects
-- Building my portfolio with real-world applications
-
-## 📫 Let's Connect
-- **LinkedIn:** www.linkedin.com/in/simon-benitez
-- **Portfolio:** portfolio-web-cyan-chi.vercel.app/
 ---
 
-*"Learning by doing, one project at a time."*
+## 🛠️ Technical Experience
+- **JP Morgan Chase Virtual Experience**  
+  Implemented a Spring Boot + Kafka microservice for financial transactions, with REST APIs and event-driven architecture.
+  
+- **Freelance Web Developer**  
+  Designed responsive, SEO-optimized websites for small businesses, improving visibility and customer engagement.
+  
+- **Software Engineer Intern @ ULimo**  
+  Built scalable ride-share backend (Supabase + PostgreSQL), created Figma UI/UX mockups, and supported Agile workflows.     
+
+- **Advanced Repair Technician @ Geek Squad**  
+  Solved 15+ daily technical issues and translated solutions for non-technical users, building communication skills critical for consulting.  
+
+---
+
+## ⚡ Skills & Tools
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%230A0A0A.svg?style=for-the-badge&logo=kanban&logoColor=white)
+
+---
+
+Open to internship roles for the summer of 2026
+
+---
+
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-benitez)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-cyan-chi.vercel.app/)  
