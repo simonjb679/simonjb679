@@ -4,21 +4,6 @@
 
 ---
 
-## 🛠️ Technical Experience
-- **JP Morgan Chase Virtual Experience**  
-  Implemented a Spring Boot + Kafka microservice for financial transactions, with REST APIs and event-driven architecture.
-  
-- **Freelance Web Developer**  
-  Designed responsive, SEO-optimized websites for small businesses, improving visibility and customer engagement.
-  
-- **Software Engineer Intern @ ULimo**  
-  Built scalable ride-share backend (Supabase + PostgreSQL), created Figma UI/UX mockups, and supported Agile workflows.     
-
-- **Advanced Repair Technician @ Geek Squad**  
-  Solved 15+ daily technical issues and translated solutions for non-technical users, building communication skills critical for consulting.  
-
----
-
 ## ⚡ Skills & Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
